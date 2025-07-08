@@ -54,8 +54,7 @@ This project demonstrates end-to-end machine learning model deployment with a fo
 
 ## 👨‍💻 Author
 **Lucky Chelani**
-- LinkedIn: [Your LinkedIn Profile]
-- Portfolio: [Your Portfolio URL]
+https://luckychelani.studio/
 
 ## 📄 License
 MIT License - feel free to use this project for learning and development!
