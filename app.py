@@ -449,8 +449,8 @@ st.markdown("""
 <div class="mobile-footer">
     <p>🤖 <strong>AI-Powered House Price Predictions</strong></p>
     <p>Built with ❤️ by <strong>Lucky Chelani</strong> using Python & Machine Learning</p>
-    <p><small>🔗 Connect with me on <a href="https://linkedin.com/in/your-profile" target="_blank" style="color: #667eea;">LinkedIn</a> | 
-    ⭐ Star this project on <a href="https://github.com/your-username/house-price-prediction" target="_blank" style="color: #667eea;">GitHub</a></small></p>
+    <p><small>🔗 Connect with me on <a href="https://linkedin.com/in/Lucky-chelani" target="_blank" style="color: #667eea;">LinkedIn</a> | 
+    ⭐ Star this project on <a href="https://github.com/Lucky-chelani/house_price_prediction" target="_blank" style="color: #667eea;">GitHub</a></small></p>
     <p><small>📊 Predictions are ML estimates based on historical data - use as guidance only</small></p>
 </div>
 """, unsafe_allow_html=True)
